@@ -1,0 +1,12 @@
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\bin\Debug\net6.0\DomainEventsSamples.Framework.deps.json
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\bin\Debug\net6.0\DomainEventsSamples.Framework.dll
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\bin\Debug\net6.0\DomainEventsSamples.Framework.pdb
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.csproj.AssemblyReference.cache
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.AssemblyInfoInputs.cache
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.AssemblyInfo.cs
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.csproj.CoreCompileInputs.cache
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.dll
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\refint\DomainEventsSamples.Framework.dll
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\DomainEventsSamples.Framework.pdb
+F:\Source\Samples\DomainEventsSamples\DomainEventsSamples.Framework\obj\Debug\net6.0\ref\DomainEventsSamples.Framework.dll

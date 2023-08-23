@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.ApplicationServices\\DomainEventsSamples.Core.ApplicationServices.csproj": {}
+  },
+  "projects": {
+    "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.ApplicationServices\\DomainEventsSamples.Core.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.ApplicationServices\\DomainEventsSamples.Core.ApplicationServices.csproj",
+        "projectName": "DomainEventsSamples.Core.ApplicationServices",
+        "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.ApplicationServices\\DomainEventsSamples.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\DomainEventsSamples.Infra.Dal.csproj": {
+                "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\DomainEventsSamples.Infra.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\DomainEventsSamples.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\DomainEventsSamples.Core.Domain.csproj",
+        "projectName": "DomainEventsSamples.Core.Domain",
+        "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\DomainEventsSamples.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\DomainEventsSamples.Framework.csproj": {
+                "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\DomainEventsSamples.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\DomainEventsSamples.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\DomainEventsSamples.Framework.csproj",
+        "projectName": "DomainEventsSamples.Framework",
+        "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\DomainEventsSamples.Framework.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\DomainEventsSamples.Infra.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\DomainEventsSamples.Infra.Dal.csproj",
+        "projectName": "DomainEventsSamples.Infra.Dal",
+        "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\DomainEventsSamples.Infra.Dal.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Infra.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\DomainEventsSamples.Core.Domain.csproj": {
+                "projectPath": "F:\\Source\\Samples\\DomainEventsSamples\\DomainEventsSamples.Core.Domain\\DomainEventsSamples.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
