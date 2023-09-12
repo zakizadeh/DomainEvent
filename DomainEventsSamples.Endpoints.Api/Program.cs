@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<SampleContext>(c => c.UseSqlServer("Server=.; Initial Catalog=PersonDb; User Id=sa;Password=1qaz!QAZ"));
+builder.Services.AddDbContext<SampleContext>(c => c.UseSqlServer("Server=.; Initial Catalog=PersonDb; User Id=sa;Password=1123456"));
 builder.Services.AddTransient<PersonService>();
 builder.Services.AddTransient<IDomainEventDispatcher, DomainEventDispatcher>();
 builder.Services.AddTransient<IDomainEventHandler<PersonCreated>, WitePersonCreatedToConsole>();
